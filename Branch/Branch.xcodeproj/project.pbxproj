@@ -14,6 +14,7 @@
 		7EAA0873208DCA23004D55C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7EAA0872208DCA23004D55C4 /* Assets.xcassets */; };
 		7EAA0876208DCA23004D55C4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EAA0874208DCA23004D55C4 /* LaunchScreen.storyboard */; };
 		7EAA0879208DCA23004D55C4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EAA0878208DCA23004D55C4 /* main.m */; };
+		7EAA0884208DCF73004D55C4 /* JiaModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EAA0883208DCF73004D55C4 /* JiaModel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		7EAA0875208DCA23004D55C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7EAA0877208DCA23004D55C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7EAA0878208DCA23004D55C4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		7EAA0882208DCF73004D55C4 /* JiaModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JiaModel.h; sourceTree = "<group>"; };
+		7EAA0883208DCF73004D55C4 /* JiaModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JiaModel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,8 @@
 				7EAA0867208DCA23004D55C4 /* AppDelegate.m */,
 				7EAA0869208DCA23004D55C4 /* ViewController.h */,
 				7EAA086A208DCA23004D55C4 /* ViewController.m */,
+				7EAA0882208DCF73004D55C4 /* JiaModel.h */,
+				7EAA0883208DCF73004D55C4 /* JiaModel.m */,
 				7EAA086C208DCA23004D55C4 /* Main.storyboard */,
 				7EAA0872208DCA23004D55C4 /* Assets.xcassets */,
 				7EAA0874208DCA23004D55C4 /* LaunchScreen.storyboard */,
@@ -145,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7EAA0884208DCF73004D55C4 /* JiaModel.m in Sources */,
 				7EAA0871208DCA23004D55C4 /* Branch.xcdatamodeld in Sources */,
 				7EAA086B208DCA23004D55C4 /* ViewController.m in Sources */,
 				7EAA0879208DCA23004D55C4 /* main.m in Sources */,
