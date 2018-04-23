@@ -16,6 +16,7 @@
 		7EAA0879208DCA23004D55C4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EAA0878208DCA23004D55C4 /* main.m */; };
 		7EAA0884208DCF73004D55C4 /* JiaModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EAA0883208DCF73004D55C4 /* JiaModel.m */; };
 		7EAA0887208DE0FA004D55C4 /* XunModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EAA0886208DE0FA004D55C4 /* XunModel.m */; };
+		7EAA088D208DE445004D55C4 /* 001.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EAA088C208DE445004D55C4 /* 001.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,8 @@
 		7EAA0883208DCF73004D55C4 /* JiaModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JiaModel.m; sourceTree = "<group>"; };
 		7EAA0885208DE0FA004D55C4 /* XunModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XunModel.h; sourceTree = "<group>"; };
 		7EAA0886208DE0FA004D55C4 /* XunModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XunModel.m; sourceTree = "<group>"; };
+		7EAA088B208DE445004D55C4 /* 001.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 001.h; sourceTree = "<group>"; };
+		7EAA088C208DE445004D55C4 /* 001.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = 001.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +77,8 @@
 				7EAA0883208DCF73004D55C4 /* JiaModel.m */,
 				7EAA0885208DE0FA004D55C4 /* XunModel.h */,
 				7EAA0886208DE0FA004D55C4 /* XunModel.m */,
+				7EAA088B208DE445004D55C4 /* 001.h */,
+				7EAA088C208DE445004D55C4 /* 001.m */,
 				7EAA086C208DCA23004D55C4 /* Main.storyboard */,
 				7EAA0872208DCA23004D55C4 /* Assets.xcassets */,
 				7EAA0874208DCA23004D55C4 /* LaunchScreen.storyboard */,
@@ -160,6 +165,7 @@
 				7EAA086B208DCA23004D55C4 /* ViewController.m in Sources */,
 				7EAA0879208DCA23004D55C4 /* main.m in Sources */,
 				7EAA0868208DCA23004D55C4 /* AppDelegate.m in Sources */,
+				7EAA088D208DE445004D55C4 /* 001.m in Sources */,
 				7EAA0887208DE0FA004D55C4 /* XunModel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
